@@ -1,7 +1,7 @@
 Type: Component
 Name: s-fc-metrics
 Provider:
-  - AWS
+  - Alibaba
 Version: 0.0.1
 Description: Serverless Devs 函数计算组件 metrics 功能
 HomePage: https://github.com/Serverless-Devs
