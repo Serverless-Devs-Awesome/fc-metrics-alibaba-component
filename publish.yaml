@@ -1,0 +1,24 @@
+Type: Component
+Name: s-fc-metrics
+Provider:
+  - Alibaba
+Version: 0.0.2
+Description: Serverless Devs 函数计算组件 metrics 功能
+HomePage: https://github.com/Serverless-Devs
+Tags:
+  - Alibaba fc
+Category: 基础云服务
+Commands:
+  metrics: 监控组建
+Properties:
+  Region:
+    Description: 地域
+    Required: true
+  Service:
+    Name:
+      Description: 服务名称
+      Required: true
+  Function:
+    Name:
+      Description: 函数名称
+      Required: true
